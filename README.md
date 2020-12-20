@@ -1,9 +1,9 @@
-# Atliq-Hardware-Sales-Insights-Using-Power-BI
+#Hardware-Sales-Insights-Using-Power-BI
 
 
 Project description
 
-The project shows the sales insights of the ATLIQ HARDWARE in INDIA which sells millions of products each year. To track down the live sales and revenue/cost, we generated a POWER BI based report along with the dashboard to check what sales have patterns throughout the years and months.
+The project shows the sales insights of the HARDWARE in INDIA which sells millions of products each year. To track down the live sales and revenue/cost, we generated a POWER BI based report along with the dashboard to check what sales have patterns throughout the years and months.
 
 The report helps to see:
 
